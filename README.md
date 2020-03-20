@@ -1,2 +1,1 @@
-# marvelapi
-Consome as APIs da Marvel
+Projeto que consome as APIs da Marvel
